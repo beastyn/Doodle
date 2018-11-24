@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 7169afb51f477484daa17b491f991a92
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_Sheet_for_Bravenwolf_running_0
+    21300002: Sprite_Sheet_for_Bravenwolf_running_1
+    21300004: Sprite_Sheet_for_Bravenwolf_running_2
+    21300006: Sprite_Sheet_for_Bravenwolf_running_3
+    21300008: Sprite_Sheet_for_Bravenwolf_running_4
+    21300010: Sprite_Sheet_for_Bravenwolf_running_5
+    21300012: Sprite_Sheet_for_Bravenwolf_running_6
+    21300014: Sprite_Sheet_for_Bravenwolf_running_7
+    21300016: Sprite_Sheet_for_Bravenwolf_running_8
+    21300018: Sprite_Sheet_for_Bravenwolf_running_9
+    21300020: Sprite_Sheet_for_Bravenwolf_running_10
+    21300022: Sprite_Sheet_for_Bravenwolf_running_11
+    21300024: Sprite_Sheet_for_Bravenwolf_running_12
+    21300026: Sprite_Sheet_for_Bravenwolf_running_13
+    21300028: Sprite_Sheet_for_Bravenwolf_running_14
+    21300030: Sprite_Sheet_for_Bravenwolf_running_15
+    21300032: Sprite_Sheet_for_Bravenwolf_running_16
+    21300034: Sprite_Sheet_for_Bravenwolf_running_17
+    21300036: Sprite_Sheet_for_Bravenwolf_running_18
+    21300038: Sprite_Sheet_for_Bravenwolf_running_19
+    21300040: Sprite_Sheet_for_Bravenwolf_running_20
+    21300042: Sprite_Sheet_for_Bravenwolf_running_21
+    21300044: Sprite_Sheet_for_Bravenwolf_running_22
+    21300046: Sprite_Sheet_for_Bravenwolf_running_23
+    21300048: Sprite_Sheet_for_Bravenwolf_running_24
+    21300050: Sprite_Sheet_for_Bravenwolf_running_25
+    21300052: Sprite_Sheet_for_Bravenwolf_running_26
+    21300054: Sprite_Sheet_for_Bravenwolf_running_27
+    21300056: Sprite_Sheet_for_Bravenwolf_running_28
+    21300058: Sprite_Sheet_for_Bravenwolf_running_29
+    21300060: Sprite_Sheet_for_Bravenwolf_running_30
+    21300062: Sprite_Sheet_for_Bravenwolf_running_31
+    21300064: Sprite_Sheet_for_Bravenwolf_running_32
+    21300066: Sprite_Sheet_for_Bravenwolf_running_33
+    21300068: Sprite_Sheet_for_Bravenwolf_running_34
+    21300070: Sprite_Sheet_for_Bravenwolf_running_35
+    21300072: Sprite_Sheet_for_Bravenwolf_running_36
+    21300074: Sprite_Sheet_for_Bravenwolf_running_37
+    21300076: Sprite_Sheet_for_Bravenwolf_running_38
+    21300078: Sprite_Sheet_for_Bravenwolf_running_39
+    21300080: Sprite_Sheet_for_Bravenwolf_running_40
+    21300082: Sprite_Sheet_for_Bravenwolf_running_41
+    21300084: Sprite_Sheet_for_Bravenwolf_running_42
+    21300086: Sprite_Sheet_for_Bravenwolf_running_43
+    21300088: Sprite_Sheet_for_Bravenwolf_running_44
+    21300090: Sprite_Sheet_for_Bravenwolf_running_45
+    21300092: Sprite_Sheet_for_Bravenwolf_running_46
+    21300094: Sprite_Sheet_for_Bravenwolf_running_47
+    21300096: Sprite_Sheet_for_Bravenwolf_running_48
+    21300098: Sprite_Sheet_for_Bravenwolf_running_49
+    21300100: Sprite_Sheet_for_Bravenwolf_running_50
+    21300102: Sprite_Sheet_for_Bravenwolf_running_51
+    21300104: Sprite_Sheet_for_Bravenwolf_running_52
+    21300106: Sprite_Sheet_for_Bravenwolf_running_53
+    21300108: Sprite_Sheet_for_Bravenwolf_running_54
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eb9fc678c70504fafa8d71219da459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 378
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3f3a756e28083469d3d526247e769a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 378
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b5b066dfc282409bfd262386be492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 378
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f5029a9af847141b56874b8bf3193c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 378
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2243857046af117438a57b91bda412a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 378
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1abfd3ae9779e46abe840fca55c4f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 378
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1132bf091a83a684989911ec6e51bb0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 378
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed94d027f4e8c80469c8e07cd063e42a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_8
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 378
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981b244e426abd345b7a3becde72c656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270c0fc57c0d35043a87f68979c5f95c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 316
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f901e42d63bf4b34a91c4cca230bc3b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 316
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfdbf70aa2b8dd47b8410227095da9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 316
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379240470132734ba7abf3d38ae8e4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 316
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d5593646c01e64b8a5b54049d08d37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_14
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 316
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ecfad9479f2984f93e793e6996ed85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 316
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c16c5d85f4dfe3459442282ac15e400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_16
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 316
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a16e8f61da894c80028407305a001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_17
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 316
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bad99b76881df41bf05e9466d6988d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aa3a78aedd02441818a9d2340017e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 254
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd38dba187becb44abb2fdc21f43bc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 254
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e42967888da8f48ac78d51426fc2d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 254
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b7eec5ec29f7a46bc9b63c7f011b60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 254
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b28318de144541895ee076a9fe58e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_23
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 254
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd4559ff2623d40b76f3682d53bcad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_24
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 254
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70983584c21c04a4d93190ece1902712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_25
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 254
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e714ac11a276fa242a19ef44e2a23dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_26
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 254
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe65d5e35a163d4b9a7f400fedd350b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b9527d79a21f438e46b5cca81ae57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 192
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0df621b7c466479f5674110959836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 192
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e851e0351cc210642b3d06a8eac6ff6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 192
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865f0f8ba910e934fa64cf0e226bb029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 192
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8810a56274e58e142bf0fd75bd1a16a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_32
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 192
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dedc15d0398016438ac144e1787d127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_33
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 192
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad614abfc65745e49a23bd9fa16cf25c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_34
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 192
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f439352627df7a7468036bb737b3506f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_35
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 192
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42efb134a399994c8eabbc7d6725819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c900458f24c2d5a4682b6616834a5824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 130
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c87498ee15243d4a988c59d4a2b0e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_38
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 130
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3199b817622d9847bc65355e2aa38bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_39
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709100c0da8b1b4499a9253ffec229bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_40
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 130
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca962089b7cfa2d47aa1746aae0e3d94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_41
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 130
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678b4b4b5d59ae8408bb3a7956b9df10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_42
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 130
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7027794b56b1be46a41e0aa2aefd2fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_43
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 130
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4e8ba19f18f2b4db30729f8a383f52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_44
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 130
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a789ff790f4d6408c076bc3b76cd22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a61ef17acb81459db76ae34d8710e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 68
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f578f8c046f324184d0b9a9350caf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 68
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a893949d444b5754ca378380511ba170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_48
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 68
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cd54975781e88459e90757f34619dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_49
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 68
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46de0de5e8717947b26d01f03f9fead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_50
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 68
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318345d0447208c468c172b40f90abdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_51
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 68
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadc013c2bf29c1498e8efe14cec2fbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_52
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 68
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c534bed62da651b40bb5ab49146cae32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_53
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 68
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102967b327a6c1048bc1f526bb40801d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Sheet_for_Bravenwolf_running_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbe5b58ece712542abaecf7459e67b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 703f25fdb9d532b45be11dc932605b3e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
