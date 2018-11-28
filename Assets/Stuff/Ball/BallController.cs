@@ -5,14 +5,21 @@ using UnityStandardAssets.CrossPlatformInput;
 
 public class BallController : MonoBehaviour {
 
-    [SerializeField] float speed = 10;
-
+    [SerializeField] float forwardForce = 10;
+    [SerializeField] float jumpForce = 2f;
     GameManager gameManager;
+    Rigidbody myRigidbody;
+
+    private void Awake()
+    {
+        gameManager = FindObjectOfType<GameManager>();
+        myRigidbody = GetComponent<Rigidbody>();
+    }
 
     // Use this for initialization
     void Start()
     {
-        gameManager = FindObjectOfType<GameManager>();
+      
 
 
     }
@@ -23,10 +30,26 @@ public class BallController : MonoBehaviour {
     {
         if (gameManager.GetPosessedStuff() == gameObject.transform)
         {
-            float horizontal = CrossPlatformInputManager.GetAxis("Horizontal");
-            Rigidbody rigidbody = GetComponent<Rigidbody>();
-            Vector3 direction = -horizontal * Vector3.right;
-            rigidbody.AddForce(direction * speed);
+            MoveForward();
+            Jump();
+        }
+    }
+
+    private void MoveForward()
+    {
+        float horizontal = CrossPlatformInputManager.GetAxis("Horizontal");
+        
+        Vector3 direction = horizontal * Vector3.right;
+        myRigidbody.AddForce(direction * forwardForce);
+    }
+    private void Jump()
+    {
+        if (CrossPlatformInputManager.GetButtonDown("Jump"))
+        {
+           
+          
+            myRigidbody.AddForce(Vector3.up * jumpForce);
+            
         }
     }
 }

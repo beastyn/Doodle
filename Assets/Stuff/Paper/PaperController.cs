@@ -6,14 +6,20 @@ using UnityStandardAssets.CrossPlatformInput;
 public class PaperController : MonoBehaviour
 {
     [SerializeField] float speed = 10;
+   
 
     GameManager gameManager;
-  
-    // Use this for initialization
-    void Start()
+
+
+    private void Awake()
     {
         gameManager = FindObjectOfType<GameManager>();
 
+    }
+    // Use this for initialization
+    void Start()
+    {
+      
        
     }
 
@@ -27,6 +33,9 @@ public class PaperController : MonoBehaviour
             Rigidbody rigidbody = GetComponent<Rigidbody>();
             Vector3 direction = horizontal * Vector3.right;
             rigidbody.AddForce(direction * speed);
-        }
+           
+
+
+        } 
     }
 }

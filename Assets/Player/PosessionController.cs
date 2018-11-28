@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.Events;
 using UnityEngine;
 
 public class PosessionController : MonoBehaviour {
@@ -19,6 +20,7 @@ public class PosessionController : MonoBehaviour {
         //if ((Input.touchCount > 0) && (Input.GetTouch(0).phase == TouchPhase.Began)
 
         PosessNewObject();
+        FlipSprite();
     }
 
     private void PosessNewObject()
@@ -30,7 +32,9 @@ public class PosessionController : MonoBehaviour {
             if (Physics.Raycast(raycast, out raycastHit) && raycastHit.collider.CompareTag("Posession"))
             {
                 MakeNewDoodleParent(raycastHit);
-                PlaceDoodlePartsOnStuff();
+                PlaceDoodlePartsOnParent();
+                EventManager.TriggerEvent("PosessesNewObject");
+
             }
         }
     }
@@ -54,7 +58,7 @@ public class PosessionController : MonoBehaviour {
         gameManager.SetPosessedStuff(transform.parent);
     }
 
-    private void PlaceDoodlePartsOnStuff()
+    private void PlaceDoodlePartsOnParent()
     {
         float scaleDifference = 1 / transform.localScale.x;
         Transform faceSlot = transform.parent.GetChild(0);
@@ -63,5 +67,9 @@ public class PosessionController : MonoBehaviour {
         transform.GetChild(0).localPosition = scaleDifference * faceSlot.localPosition;
         transform.GetChild(1).localPosition = scaleDifference * rightHandSlot.localPosition;
         transform.GetChild(2).localPosition = scaleDifference * leftHandSlot.localPosition;
+    }
+    void FlipSprite()
+    {
+       // Debug.Log(transform.parent.forward); 
     }
 }
